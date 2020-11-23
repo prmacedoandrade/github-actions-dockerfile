@@ -5,14 +5,7 @@ on:
             - master
 
 jobs:
-  name: Publish Docker image
-on:
-    push:
-        branches:
-            - master
-
-jobs:
-path-context:
+  path-context:
     runs-on: ubuntu-latest
     steps:
       -
