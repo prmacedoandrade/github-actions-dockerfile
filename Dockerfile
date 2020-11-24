@@ -6,5 +6,5 @@ COPY package*.json ./
 USER node
 RUN npm install
 COPY --chown=node:node . .
-EXPOSE 3000
+EXPOSE 8000
 CMD [ "node", "app.js" ]
