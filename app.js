@@ -4,5 +4,5 @@ app.get('/', function (req, res) {
     res.send('Hello Geeks!');
 });
 app.listen(3000, function () {
-    console.log('Servidor na porta TESTE1!');
+    console.log('Servidor na porta BLAH!');
 });
