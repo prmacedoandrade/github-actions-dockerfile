@@ -1,4 +1,4 @@
 # Github Actions Docker
 
-tividade Github Actions Docker - Curso DevOps.
+Atividade Github Actions Docker - Curso DevOps.
 
